@@ -1,0 +1,9 @@
+# JS
+node_modules
+.next
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode
